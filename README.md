@@ -1,16 +1,11 @@
-## Hi there 👋
+##Hi, I'm Rodrigo!
 
-<!--
-**RFCrio/RFCrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a>
+        <img src="https://github-stats-extended-frontend-ten-mauve.vercel.app/api?username=jv-quintella&hide_rank=false&rank_icon=github&hide_title=true&include_all_commits=true&theme=transparent&hide_border=true&card_width=515" alt="Joao Quintella GitHub stats" />
+    </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <a>
+        <img src="https://github-stats-extended-frontend-ten-mauve.vercel.app/api/top-langs?username=jv-quintella&hide_title=true&langs_count=10&hide_values=true&hide_progress=true&theme=transparent&hide_border=true" alt="Most Used Languages" />
+    </a>
+</div>
